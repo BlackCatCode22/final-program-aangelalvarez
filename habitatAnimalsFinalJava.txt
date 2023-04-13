@@ -1,28 +1,31 @@
+Final Program Output; by Angel Alvarez, Spring 2023, Fresno, CA
+
+
 Hyena Habitat:
 
-An0 hyena unnamed 99 born in spring tan color 70 pounds 9999 Tunisia Tunisia02
-An1 hyena unnamed 99 born in fall brown color 150 pounds 9999 Tunisia Tunisia02
-An2 hyena unnamed 99 born in spring black color 120 pounds 9999 Tunisia Tunisia02
-An3 hyena unnamed 99 unknown birth season black and tan striped color 105 pounds 9999 Tunisia Tunisia02
+Hy1 | hyena | Banzai | 4 years old | birth date May 4, 2019 | tan color | female | 70 | from Friguia Park, Tunisia | arrived on May 9, 2022
+Hy2 | hyena | Zig | 12 years old | birth date September 1, 2011 | brown color | male | 150 | from Friguia Park, Tunisia | arrived on August 10, 2021
+Hy3 | hyena | Banzai | 4 years old | birth date March 18, 2019 | black color | male | 120 | from Friguia Park, Tunisia | arrived on February 1, 2020
+Hy4 | hyena | Madoa | 8 years old | birth date is unknown | black and tan striped color | female | 105 | from Friguia Park, Tunisia | arrived on January 17, 2015
 
 Lion Habitat:
 
-An4 lion unnamed 99 born in spring tan color 300 pounds 9999 Tanzania Tanzania02
-An5 lion unnamed 99 born in winter dark tan color 375 pounds 9999 Tanzania Tanzania02
-An6 lion unnamed 99 born in fall golden color 450 pounds 9999 Tanzania Tanzania02
-An7 lion unnamed 99 born in spring tan and brown color 275 pounds 9999 Tanzania Tanzania02
+Li1 | lion | Samson | 6 years old | birth date April 8, 2017 | tan color | female | 300 | from Zanzibar, Tanzania | arrived on November 12, 2017
+Li2 | lion | Mufasa | 12 years old | birth date December 6, 2011 | dark tan color | female | 375 | from KopeLion, Tanzania | arrived on December 27, 2011
+Li3 | lion | King | 22 years old | birth date October 3, 2001 | golden color | male | 450 | from Zanzibar, Tanzania | arrived on March 24, 2017
+Li4 | lion | Samson | 4 years old | birth date March 11, 2019 | tan and brown color | female | 275 | from KopeLion, Tanzania | arrived on January 24, 2022
 
 Tiger Habitat:
 
-An8 tiger unnamed 99 born in spring gold and tan stripes color 270 pounds 9999 Bangladesh Bangladesh02
-An9 tiger unnamed 99 born in spring black stripes color 400 pounds 9999 Bangladesh Bangladesh02
-An10 tiger unnamed 99 born in fall gold and tan color 300 pounds 9999 Nepal Nepal02
-An11 tiger unnamed 99 born in spring black stripes color 285 pounds 9999 Nepal Nepal02
+Ti1 | tiger | Jiba | 2 years old | birth date March 23, 2021 | gold and tan stripes color | male | 270 | from Dhaka, Bangladesh | arrived on June 16, 2022
+Ti2 | tiger | Dave | 4 years old | birth date March 7, 2019 | black stripes color | female | 400 | from Dhaka, Bangladesh | arrived on March 26, 2022
+Ti3 | tiger | Cuddles | 18 years old | birth date October 21, 2005 | gold and tan color | male | 300 | from Bardia, Nepal | arrived on February 10, 2017
+Ti4 | tiger | Rayas | 3 years old | birth date May 20, 2020 | black stripes color | female | 285 | from Bardia, Nepal | arrived on November 7, 2020
 
 Bear Habitat:
 
-An12 bear unnamed 99 born in spring brown color 320 pounds 9999 Alaska Alaska02
-An13 bear unnamed 99 born in spring black color 425 pounds 9999 Washington  Washington 02
-An14 bear unnamed 99 born in fall black color 355 pounds 9999 Washington  Washington 02
-An15 bear unnamed 99 born in spring brown color 405 pounds 9999 Alaska Alaska02
+Be1 | bear | Snuggles | 7 years old | birth date March 2, 2016 | brown color | male | 320 | from Alaska Zoo, Alaska | arrived on July 20, 2018
+Be2 | bear | Paddington | 25 years old | birth date April 11, 1998 | black color | female | 425 | from Woodland park Zoo, Washington  | arrived on April 4, 2009
+Be3 | bear | Baloo | 4 years old | birth date October 30, 2019 | black color | female | 355 | from Woodland park Zoo, Washington  | arrived on May 26, 2020
+Be4 | bear | Lippy | 4 years old | birth date April 7, 2019 | brown color | male | 405 | from Alaska Zoo, Alaska | arrived on September 8, 2019
 

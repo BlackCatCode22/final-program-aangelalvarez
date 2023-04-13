@@ -39,15 +39,15 @@ public class Animal {
     // Override the toString() method
     @Override
     public String toString() {
-        return id + " " +
-                species + " " +
-                name + " " +
-                age + " " +
-                birthDate + " " +
-                color + " " +
-                gender + " " +
-                weight + " " +
-                origin + " " +
+        return id + " | " +
+                species + " | " +
+                name + " | " +
+                age + " years old | " +
+                birthDate + " | " +
+                color + " | " +
+                gender + " | " +
+                weight + " | " +
+                origin + " | " +
                 arrivalDate;
     }
 
