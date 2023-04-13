@@ -46,7 +46,7 @@ public class Animal {
                 birthDate + " | " +
                 color + " | " +
                 gender + " | " +
-                weight + " | " +
+                weight + " kilograms | " +
                 origin + " | " +
                 arrivalDate;
     }
