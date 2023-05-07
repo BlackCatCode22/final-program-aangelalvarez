@@ -1,4 +1,20 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Q70zc3t9)
+
+
+For my program I took the template that was given to us for the final program assignment, and then I went ahead and added some of my own functions, I also changed some of the given code
+
+here's the link to my presentation:
+
+https://youtu.be/UfHjv5Lfvj8
+
+here's the github link:
+
+https://github.com/BlackCatCode22/final-program-aangelalvarez
+
+
+
+
+
 # JavaFinalProgramSpr23
 JavaFinalProgramSpr23 contains the starting files needed for the class final program.
 
